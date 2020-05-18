@@ -4,4 +4,4 @@
 
 ### Have a look below for a quick demonstration on how to use it 
 
-![Extension Demo](images/howToUse.gif)
+![Extension Demo](/src/images/howToUse.gif)
